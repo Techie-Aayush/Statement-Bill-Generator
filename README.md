@@ -1,6 +1,6 @@
 # Invoice Generator
 
-An Invoice Generator project built with React and Tailwind CSS. Add items, quantities, prices, tax rates, and discounts. Download Generated Invoices as PDFs to your device and print them out. Use html-to-image to capture the data from the modal and convert it from canvas to pdf with jsPDF.
+This project is an Invoice Generator built using React and Tailwind CSS. It allows users to add items with quantities, prices, tax rates, and discounts. Generated invoices can be downloaded as PDF files to your device for easy printing.
 
 ## Project Overview
 
